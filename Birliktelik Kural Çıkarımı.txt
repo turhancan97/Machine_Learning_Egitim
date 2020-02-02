@@ -1,0 +1,11 @@
+Birliktelik Kural Çıkarımı (Association Rule Mining) bölümüne hoş geldiniz.
+
+Bu bölümde genelde:
+
+"şunu alan şunu da aldı" gibi bağlantıların kurulduğu ve kampanya, ürün tavsiyesi gibi alanlarda sıkça kullanılan algoritmaları göreceğiz. 
+
+bu bölümde, kısaca ARM (Association Rule Mining) olarak kısaltacağımız aşağıdaki algoritmaları anlatarak uygulamalarını Python dili üzerinden yapacağız. 
+
+1. Apriori
+
+2. Eclat
