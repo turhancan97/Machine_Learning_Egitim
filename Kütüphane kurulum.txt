@@ -1,0 +1,15 @@
+Kütüphanelerin kurulum komutları
+Ders kapsamında kullanacağımı derin öğrenme kütüphanelerinin kurulumu bir sonraki derste anlatılacaktır. Bu derste kullanacağınız kütüphanelerin web siteleri ve kurulum için gereken komutlar aşağıda verilmiştir. 
+
+Derin Öğrenme Kütüphanelerinin Web Siteleri
+Keras: https://keras.io
+TensorFlow: https://www.tensorflow.org
+Caffe : http://caffe.berkeleyvision.org
+DeepLearning4J : https://deeplearning4j.org
+PyTorch : https://pytorch.org
+Ders Kapsamında Keras, TensorFlow ve Theano kullanılacaktır. Sırasıyla kütüphanelerin kurulum komutları aşağıda verilmiştir. 
+Derin Öğrenme Kütüphanelerinin kurulması
+Theano : pip install –upgrade –no-deps git+git://github.com/Theano/Theano.git
+TensorFlow: conda create -n tensorflow python=3.5
+Keras : pip install –upgrade keras
+TensorFlow: pip3 install –upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
